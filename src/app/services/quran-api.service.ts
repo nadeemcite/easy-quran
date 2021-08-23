@@ -9,7 +9,7 @@ import { map } from 'rxjs/operators';
 })
 export class QuranApiService {
   private readonly LOCAL_API_PREFIX: string = '/assets/meta-data/';
-  private readonly API_PREFIX: string = 'http://api.alquran.cloud/v1/';
+  private readonly API_PREFIX: string = 'https://api.alquran.cloud/v1/';
 
   constructor(private http: HttpClient) {}
 
