@@ -17,4 +17,4 @@ jobs:
             - ./node_modules
       - run:
           name: test
-          command: ./node_modules./.bin/ng test --watch false
+          command: ./node_modules/.bin/ng test --watch false
