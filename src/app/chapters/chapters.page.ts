@@ -19,7 +19,7 @@ export class ChaptersPage {
     private translate: TranslateService,
     private router: Router,
     private modalController: ModalController,
-    private nav:NavController
+    private nav: NavController
   ) {}
 
   ngOnInit() {
@@ -36,6 +36,6 @@ export class ChaptersPage {
     });
   }
   async openChapter(chapter: Chapter) {
-    this.nav.navigateForward('/chapter/'+chapter.id)
+    this.nav.navigateForward('/chapter/' + chapter.id);
   }
 }

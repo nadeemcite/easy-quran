@@ -18,48 +18,62 @@ export class ChapterPage implements OnInit {
     en: 'en.ahmedali',
   };
   surah: Surah;
+  tranSurah: Surah;
   currentPage = 0;
-  size=3;
+  size = 9;
+
   constructor(
     private apiService: QuranApiService,
     private activatedRoute: ActivatedRoute,
     private translate: TranslateService,
-    private nav:NavController
+    private nav: NavController
   ) {}
 
   ngOnInit() {
-    
-
     this.fetchSurah(this.translate.currentLang);
+    this.fetchSurah('ar');
 
     this.translate.onDefaultLangChange.subscribe((event: LangChangeEvent) => {
+      console.log(event.lang);
+
       this.fetchSurah(event.lang);
     });
   }
 
-  fetchSurah(lang){
+  fetchSurah(lang) {
     this.activatedRoute.params.subscribe((params) => {
-        this.apiService
-          .getAayhs(
-            params.chapter_id,
-            this.LANGUAGE_CODE[lang],
-            this.currentPage,
-            this.size
-          )
-          .subscribe((surah) => {
+      this.apiService
+        .getAayhs(
+          params.chapter_id,
+          this.LANGUAGE_CODE[lang],
+          this.currentPage,
+          this.size
+        )
+        .subscribe((surah) => {
+          if (lang == 'ar') {
             this.surah = surah;
+          } else {
+            this.tranSurah = surah;
+          }
+          this.surah?.ayahs.map((res, index) => {
+            if (this.tranSurah?.ayahs) {
+              res['trans'] = this.tranSurah.ayahs[index];
+              return res;
+            }
           });
-      });
+          console.log(this.surah);
+        });
+    });
   }
-  back(){
+  back() {
     this.nav.back();
   }
 
-  next(){
-      this.currentPage++;
-      this.fetchSurah(this.translate.currentLang);
+  next() {
+    this.currentPage++;
+    this.fetchSurah(this.translate.currentLang);
   }
-  previous(){
+  previous() {
     this.currentPage--;
     this.fetchSurah(this.translate.currentLang);
   }
