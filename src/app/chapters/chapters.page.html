@@ -1,10 +1,9 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-    <ion-title class="fix-title">
       <ion-grid>
         <ion-row>
           <ion-col>
-            <div>
+            <div class="ion-text-start">
               <ion-label [innerHTML]="'CHAPTER' | translate"></ion-label>
             </div>
           </ion-col>
@@ -13,16 +12,10 @@
           </ion-col>
         </ion-row>
       </ion-grid>
-    </ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Chapters</ion-title>
-    </ion-toolbar>
-  </ion-header>
+<ion-content>
   <ion-list>
     <ion-item *ngFor="let chapter of chapters; let i=index">
       <div class="ion-text-wrap chapter-title">

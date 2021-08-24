@@ -8,6 +8,7 @@ import { ComponentsModule } from '../components/components.module';
 import { TranslateModule, TranslateService } from '@ngx-translate/core';
 import { ChapterRoutingModule } from './chapter-routing.module';
 import { ChapterPage } from './chapter.page';
+import { ChangeAyahCountComponent } from './change-size/change-ayah-count.component';
 
 @NgModule({
   imports: [
@@ -19,6 +20,6 @@ import { ChapterPage } from './chapter.page';
     ComponentsModule,
     TranslateModule,
   ],
-  declarations: [ChapterPage],
+  declarations: [ChapterPage, ChangeAyahCountComponent],
 })
 export class ChapterModule {}

@@ -1,0 +1,15 @@
+<ion-toolbar> Change Nuber of Ayahs </ion-toolbar>
+<ion-list>
+  <ng-container *ngFor="let num of nums">
+    <ion-item (click)="selectCount(num)" *ngIf="num + 1 != currentNum">
+      {{ num + 1 }}
+    </ion-item>
+    <ion-item
+      (click)="selectCount(num)"
+      *ngIf="num + 1 == currentNum"
+      color="success"
+    >
+      {{ num + 1 }}
+    </ion-item>
+  </ng-container>
+</ion-list>

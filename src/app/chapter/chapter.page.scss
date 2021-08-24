@@ -88,3 +88,26 @@ ion-content {
   place-content: center space-between;
   align-items: center;
 }
+.rtl{
+    text-align: right;
+}
+.inscribe-circle{
+    border:1px solid gray;
+    color:lightgray;
+    padding:3px;
+    border-radius: 50%;
+}
+.highlight{
+    font-size: 2.4rem;
+    font-weight: 900;
+}
+.translated-text{
+    border-top: dotted 1px lightgray;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 1.8rem;
+}
+.size-label{
+    font-weight: 900;
+    padding-right: 5px;
+}
