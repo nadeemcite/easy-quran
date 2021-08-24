@@ -10,7 +10,9 @@ import { LanguageModalComponent } from './language-modal.component';
 export class LanguageSelectorComponent implements OnInit {
     constructor(private modalController: ModalController) { }
 
-    ngOnInit() { }
+    ngOnInit() {
+        console.log("INITITATED")
+     }
 
     async openLanguageSelector(){
         const modal = await this.modalController.create({
