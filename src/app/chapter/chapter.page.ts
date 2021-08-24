@@ -1,11 +1,8 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import {
-  NavController,
-  PopoverController,
-} from '@ionic/angular';
+import { NavController, PopoverController } from '@ionic/angular';
 import { LangChangeEvent, TranslateService } from '@ngx-translate/core';
-import { Surah } from '../models/Chapter';
+import { EditionMapping, LANGUAGE_CODE, Surah } from '../models/Chapter';
 import { QuranApiService } from '../services/quran-api.service';
 import { ChangeAyahCountComponent } from './change-size/change-ayah-count.component';
 
@@ -15,18 +12,15 @@ import { ChangeAyahCountComponent } from './change-size/change-ayah-count.compon
   styleUrls: ['chapter.page.scss'],
 })
 export class ChapterPage implements OnInit {
-  LANGUAGE_CODE = {
-    hi: 'hi.hindi',
-    ur: 'ur.ahmedali',
-    ar: null,
-    en: 'en.ahmedali',
-  };
   surah: Surah;
   languageSurah: Surah;
+  translitrationSurah: Surah;
+  audioSurah: Surah;
+  mainAudioSurah: Surah;
   currentPage = 0;
   size;
 
-  @ViewChild('content')
+  @ViewChild('content', {static: true})
   content;
 
   constructor(
@@ -37,9 +31,9 @@ export class ChapterPage implements OnInit {
     private popoverController: PopoverController
   ) {
     const ayahCount = localStorage.getItem('ayah-count');
-    if(ayahCount!==null){
-      this.size = ayahCount;
-    }else{
+    if (ayahCount !== null) {
+      this.size = Number(ayahCount);
+    } else {
       this.size = 3;
     }
   }
@@ -49,8 +43,6 @@ export class ChapterPage implements OnInit {
     this.fetchSurah('ar');
 
     this.translate.onDefaultLangChange.subscribe((event: LangChangeEvent) => {
-      console.log(event.lang);
-
       this.fetchSurah(event.lang);
     });
   }
@@ -62,16 +54,36 @@ export class ChapterPage implements OnInit {
           this.apiService
             .getAayhs(
               params.chapter_id,
-              this.LANGUAGE_CODE[lang],
+              LANGUAGE_CODE[lang],
               this.currentPage,
               this.size
             )
-            .subscribe((surah) => {
-              this.surah = surah[0];
-              if (surah[1]) {
-                this.languageSurah = surah[1];
-              } else {
-                this.languageSurah = null;
+            .subscribe((surahs) => {
+              this.surah = null;
+              this.languageSurah = null;
+              this.translitrationSurah = null;
+              this.audioSurah = null;
+              this.mainAudioSurah = null;
+              if (surahs.length > 0) {
+                surahs.forEach((surah) => {
+                  switch (EditionMapping[surah.edition.identifier]) {
+                    case 'main':
+                      this.surah = surah;
+                      break;
+                    case 'translation':
+                      this.languageSurah = surah;
+                      break;
+                    case 'translitration':
+                      this.translitrationSurah = surah;
+                      break;
+                    case 'audio':
+                      this.audioSurah = surah;
+                      break;
+                    case 'main-audio':
+                      this.mainAudioSurah = surah;
+                      break;
+                  }
+                });
               }
               resolve(true);
             });
@@ -105,12 +117,12 @@ export class ChapterPage implements OnInit {
       cssClass: 'my-custom-class',
       translucent: false,
       componentProps: {
-        currentNum: this.size
-      }
+        currentNum: this.size,
+      },
     });
     await popover.present();
     popover.onDidDismiss().then((data) => {
-      this.size = data.data;
+      this.size = Number(data.data);
       localStorage.setItem('ayah-count', this.size);
       this.currentPage = 0;
       this.ngOnInit();

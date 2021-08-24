@@ -33,10 +33,10 @@ export class QuranApiService {
   }
 
 
-  getAayhs(chapter_id:number, language:string, page:number, size:number):Observable<Surah[]>{
+  getAayhs(chapter_id:number, language:string[], page:number, size:number):Observable<Surah[]>{
     const offset = page *size; 
     return this.http.get<Surah[]>(
-      this.API_PREFIX + `surah/${chapter_id}/editions/quran-simple${language?","+language:""}?limit=${size}&offset=${offset}`
+      this.API_PREFIX + `surah/${chapter_id}/editions/${language.join(",")}?limit=${size}&offset=${offset}`
     ).pipe(map((res: any) => res.data),);
   }
 }
