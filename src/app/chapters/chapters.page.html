@@ -1,17 +1,17 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-      <ion-grid>
-        <ion-row>
-          <ion-col>
-            <div class="ion-text-start">
-              <ion-label [innerHTML]="'CHAPTER' | translate"></ion-label>
-            </div>
-          </ion-col>
-          <ion-col class="ion-text-end">
-            <app-language-selector></app-language-selector>
-          </ion-col>
-        </ion-row>
-      </ion-grid>
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          <div class="ion-text-start">
+            <ion-label [innerHTML]="'CHAPTER' | translate"></ion-label>
+          </div>
+        </ion-col>
+        <ion-col class="ion-text-end">
+          <app-language-selector></app-language-selector>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
   </ion-toolbar>
 </ion-header>
 
@@ -21,13 +21,62 @@
       <div class="ion-text-wrap chapter-title">
         <div class="chapter" (click)="openChapter(chapter)">
           <div class="surah-card">
-            <div class="surah-card__number">{{i+1}}</div>
-
-            <div class="surah-card__text">
+            <div
+              class="surah-card__text-ar"
+              *ngIf="translate.currentLang=='ar'"
+            >
               <div class="surah-card__latin">
-                <h5>{{chapter.name_simple}}</h5>
-                <div class="ayah-number-wrapper">
-                  <p class="english">{{chapter.translated_name.name}}</p>
+                <div>{{chapter.translated_name.name}}</div>
+              </div>
+              <div class="surah-card__number">{{toArabicNumeral(i+1)}}</div>
+            </div>
+
+            <div *ngIf="translate.currentLang=='en'" class="surah-card__text">
+              <div class="surah-card__num-trans">
+                <div class="surah-card__number">{{i+1}}</div>
+                <div class="surah-card__latin">
+                  <h5>{{chapter.name_simple}}</h5>
+                  <div class="ayah-number-wrapper">
+                    <p class="english">{{chapter.translated_name.name}}</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="surah-card__arabic">
+                <p>
+                  <span class="icon-surah icon-surah1"></span>
+                  <span class="icon-surah icon-surah-surah">
+                    {{chapter.name_arabic}}
+                  </span>
+                </p>
+              </div>
+            </div>
+
+            <div
+              *ngIf="translate.currentLang=='ur'"
+              class="surah-card__text-ur"
+            >
+              <div class="surah-card__num-trans">
+                <div class="surah-card__latin">
+                  <div class="ayah-number-wrapper">
+                    <div class="arabic">{{chapter.name_arabic}}</div>
+                    <div class="english">{{chapter.translated_name.name}}</div>
+                  </div>
+                </div>
+                <div class="surah-card__number">{{toUrduNumeral(i+1)}}</div>
+              </div>
+            </div>
+
+            <div *ngIf="translate.currentLang=='hi'" class="surah-card__text">
+              <div class="surah-card__latin">
+                <div class="surah-card__num-trans">
+                  <div class="surah-card__number">{{i+1}}</div>
+                  <div class="surah-card__latin">
+                    <h5>{{chapter.name_simple}}</h5>
+                    <div class="ayah-number-wrapper">
+                      <p class="english">{{chapter.translated_name.name}}</p>
+                    </div>
+                  </div>
                 </div>
               </div>
 

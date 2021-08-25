@@ -41,6 +41,42 @@ ion-list {
           flex: 1 1;
           justify-content: space-between;
 
+          &-ar {
+            display: flex;
+            flex-direction: row;
+            flex: 1 1;
+            align-items: center;
+            place-content: center flex-end;
+            gap: 10px;
+            font-size: 20px;
+          }
+
+          &-ur {
+            width: 100%;
+
+            .surah-card__num-trans {
+              height: 100%;
+              flex-direction: row;
+              box-sizing: border-box;
+              display: flex;
+              gap: 10px;
+              place-content: center flex-end;
+              align-items: baseline;
+
+              .ayah-number-wrapper {
+                text-align: end;
+
+                .arabic {
+                  color: #00acc1;
+                }
+              }
+            }
+          }
+
+          .surah-card__num-trans {
+            display: flex;
+          }
+
           .surah-card__latin {
             h5 {
               font-weight: bolder;

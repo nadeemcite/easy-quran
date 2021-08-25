@@ -24,6 +24,7 @@ export class ChaptersPage {
 
   ngOnInit() {
     this.fetchChapters(this.translate.currentLang);
+    console.log(this.translate.currentLang);
 
     this.translate.onDefaultLangChange.subscribe((event: LangChangeEvent) => {
       this.fetchChapters(event.lang);
@@ -33,9 +34,20 @@ export class ChaptersPage {
     this.chapters = [];
     this.quranApiService.getChapters(lang).subscribe((chapters) => {
       this.chapters = chapters;
+      // console.log(chapters);
     });
   }
   async openChapter(chapter: Chapter) {
     this.nav.navigateForward('/chapter/' + chapter.id);
+  }
+  toArabicNumeral(en) {
+    return ('' + en).replace(/[0-9]/g, function (t) {
+      return '٠١٢٣٤٥٦٧٨٩'.substr(+t, 1);
+    });
+  }
+  toUrduNumeral(en) {
+    return ('' + en).replace(/[0-9]/g, function (t) {
+      return '٠١٢٣۴٥٦۷٨٩'.substr(+t, 1);
+    });
   }
 }
