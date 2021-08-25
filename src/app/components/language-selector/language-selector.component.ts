@@ -11,7 +11,6 @@ export class LanguageSelectorComponent implements OnInit {
     constructor(private modalController: ModalController) { }
 
     ngOnInit() {
-        console.log("INITITATED")
      }
 
     async openLanguageSelector(){

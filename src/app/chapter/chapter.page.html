@@ -16,7 +16,7 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
+<ion-content [fullscreen]="true" #content>
   <ion-header collapse="condense">
     <ion-toolbar>
       <ion-title size="large">Chapters</ion-title>
@@ -27,9 +27,23 @@
       <ion-label
         class="ion-text-wrap"
         ><small class="inscribe-circle">{{(currentPage*size) + i + 1}} / {{surah.numberOfAyahs}}</small> 
-        <div class="highlight" [ngClass]="{'rtl':surah.edition.direction=='rtl'}">{{ayah.text}}</div>
+        <div class="highlight" [ngClass]="{'rtl':surah.edition.direction=='rtl'}" >{{ayah.text}}</div>
+        
+        <div *ngIf="mainAudioSurah">
+          <audio controls class="surah-audio">
+            <source [src]="mainAudioSurah.ayahs[i].audio" >
+          </audio>
+        </div>
+        <div class="translitrated-text" [ngClass]="{'rtl':surah.edition.direction=='rtl'}" *ngIf="translitrationSurah">
+          {{translitrationSurah.ayahs[i].text}}
+        </div>
         <div class="translated-text" [ngClass]="{'rtl':surah.edition.direction=='rtl'}" *ngIf="languageSurah">
           {{languageSurah.ayahs[i].text}}
+        </div>
+        <div *ngIf="audioSurah">
+          <audio controls class="surah-audio">
+            <source [src]="audioSurah.ayahs[i].audio" >
+          </audio>
         </div>
         </ion-label
       >
@@ -42,7 +56,7 @@
           </ion-button>
           <ion-button
             (click)="next()"
-            [disabled]="currentPage*(size+1) >= surah.numberOfAyahs"
+            [disabled]="((currentPage+1)*(size)) >= surah.numberOfAyahs"
           >
             {{'NEXT' | translate}}</ion-button
           >
