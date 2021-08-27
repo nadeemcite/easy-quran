@@ -4,14 +4,14 @@
       "revelation_place": "makkah",
       "revelation_order": 5,
       "bismillah_pre": false,
-      "name_simple": "Al-Fatihah",
+      "name_simple": "सूरह फातेहा",
       "name_complex": "Al-Fātiĥah",
       "name_arabic": "الفاتحة",
       "verses_count": 7,
       "pages": [1, 1],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Opener"
+        "language_name": "hindi",
+        "name": "शुरू करना"
       }
     },
     {
@@ -19,14 +19,14 @@
       "revelation_place": "madinah",
       "revelation_order": 87,
       "bismillah_pre": true,
-      "name_simple": "Al-Baqarah",
+      "name_simple": "सूरह बकराह",
       "name_complex": "Al-Baqarah",
       "name_arabic": "البقرة",
       "verses_count": 286,
       "pages": [2, 49],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Cow"
+        "language_name": "hindi",
+        "name": "गाय"
       }
     },
     {
@@ -34,14 +34,14 @@
       "revelation_place": "madinah",
       "revelation_order": 89,
       "bismillah_pre": true,
-      "name_simple": "Ali 'Imran",
+      "name_simple": "सूरह आले इमरान",
       "name_complex": "Āli `Imrān",
       "name_arabic": "آل عمران",
       "verses_count": 200,
       "pages": [50, 76],
       "translated_name": {
-        "language_name": "english",
-        "name": "Family of Imran"
+        "language_name": "hindi",
+        "name": "हजरत इमरान अलेहिस्सलाम की औलाद"
       }
     },
     {
@@ -49,14 +49,14 @@
       "revelation_place": "madinah",
       "revelation_order": 92,
       "bismillah_pre": true,
-      "name_simple": "An-Nisa",
+      "name_simple": "सूरह निसा",
       "name_complex": "An-Nisā",
       "name_arabic": "النساء",
       "verses_count": 176,
       "pages": [77, 106],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Women"
+        "language_name": "hindi",
+        "name": "औरतें"
       }
     },
     {
@@ -64,14 +64,14 @@
       "revelation_place": "madinah",
       "revelation_order": 112,
       "bismillah_pre": true,
-      "name_simple": "Al-Ma'idah",
+      "name_simple": "सूरह मायदा",
       "name_complex": "Al-Mā'idah",
       "name_arabic": "المائدة",
       "verses_count": 120,
       "pages": [106, 127],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Table Spread"
+        "language_name": "hindi",
+        "name": "दस्तरख्वान"
       }
     },
     {
@@ -79,14 +79,14 @@
       "revelation_place": "makkah",
       "revelation_order": 55,
       "bismillah_pre": true,
-      "name_simple": "Al-An'am",
+      "name_simple": "सूरह अन्आम",
       "name_complex": "Al-'An`ām",
       "name_arabic": "الأنعام",
       "verses_count": 165,
       "pages": [128, 150],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Cattle"
+        "language_name": "hindi",
+        "name": "जानवर,मवेशी"
       }
     },
     {
@@ -94,14 +94,14 @@
       "revelation_place": "makkah",
       "revelation_order": 39,
       "bismillah_pre": true,
-      "name_simple": "Al-A'raf",
+      "name_simple": "सूरह आराफ",
       "name_complex": "Al-'A`rāf",
       "name_arabic": "الأعراف",
       "verses_count": 206,
       "pages": [151, 176],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Heights"
+        "language_name": "hindi",
+        "name": "बुलंदीयाँ"
       }
     },
     {
@@ -109,14 +109,14 @@
       "revelation_place": "madinah",
       "revelation_order": 88,
       "bismillah_pre": true,
-      "name_simple": "Al-Anfal",
+      "name_simple": "सूरह अनफाल",
       "name_complex": "Al-'Anfāl",
       "name_arabic": "الأنفال",
       "verses_count": 75,
       "pages": [177, 186],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Spoils of War"
+        "language_name": "hindi",
+        "name": "माले गनीमत"
       }
     },
     {
@@ -124,14 +124,14 @@
       "revelation_place": "madinah",
       "revelation_order": 113,
       "bismillah_pre": false,
-      "name_simple": "At-Tawbah",
+      "name_simple": "सूरह तौबा",
       "name_complex": "At-Tawbah",
       "name_arabic": "التوبة",
       "verses_count": 129,
       "pages": [187, 207],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Repentance"
+        "language_name": "hindi",
+        "name": "माफी"
       }
     },
     {
@@ -139,14 +139,14 @@
       "revelation_place": "makkah",
       "revelation_order": 51,
       "bismillah_pre": true,
-      "name_simple": "Yunus",
+      "name_simple": "सूरह युनुस",
       "name_complex": "Yūnus",
       "name_arabic": "يونس",
       "verses_count": 109,
       "pages": [208, 221],
       "translated_name": {
-        "language_name": "english",
-        "name": "Jonah"
+        "language_name": "hindi",
+        "name": "सूरह युनुस"
       }
     },
     {
@@ -154,14 +154,14 @@
       "revelation_place": "makkah",
       "revelation_order": 52,
       "bismillah_pre": true,
-      "name_simple": "Hud",
+      "name_simple": "सूरह हुद",
       "name_complex": "Hūd",
       "name_arabic": "هود",
       "verses_count": 123,
       "pages": [221, 235],
       "translated_name": {
-        "language_name": "english",
-        "name": "Hud"
+        "language_name": "hindi",
+        "name": "सूरह हुद"
       }
     },
     {
@@ -169,14 +169,14 @@
       "revelation_place": "makkah",
       "revelation_order": 53,
       "bismillah_pre": true,
-      "name_simple": "Yusuf",
+      "name_simple": "सूरह यूसुफ",
       "name_complex": "Yūsuf",
       "name_arabic": "يوسف",
       "verses_count": 111,
       "pages": [235, 248],
       "translated_name": {
-        "language_name": "english",
-        "name": "Joseph"
+        "language_name": "hindi",
+        "name": "सूरह यूसुफ"
       }
     },
     {
@@ -184,14 +184,14 @@
       "revelation_place": "madinah",
       "revelation_order": 96,
       "bismillah_pre": true,
-      "name_simple": "Ar-Ra'd",
+      "name_simple": "सूरह राअद",
       "name_complex": "Ar-Ra`d",
       "name_arabic": "الرعد",
       "verses_count": 43,
       "pages": [249, 255],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Thunder"
+        "language_name": "hindi",
+        "name": "बादल की गरज"
       }
     },
     {
@@ -199,14 +199,14 @@
       "revelation_place": "makkah",
       "revelation_order": 72,
       "bismillah_pre": true,
-      "name_simple": "Ibrahim",
+      "name_simple": "सूरह इब्राहीम",
       "name_complex": "Ibrāhīm",
       "name_arabic": "ابراهيم",
       "verses_count": 52,
       "pages": [255, 261],
       "translated_name": {
-        "language_name": "english",
-        "name": "Abraham"
+        "language_name": "hindi",
+        "name": "सूरह इब्राहीम"
       }
     },
     {
@@ -214,14 +214,14 @@
       "revelation_place": "makkah",
       "revelation_order": 54,
       "bismillah_pre": true,
-      "name_simple": "Al-Hijr",
+      "name_simple": "सूरह हिज्र",
       "name_complex": "Al-Ĥijr",
       "name_arabic": "الحجر",
       "verses_count": 99,
       "pages": [262, 267],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Rocky Tract"
+        "language_name": "hindi",
+        "name": "सूरह हिज्र"
       }
     },
     {
@@ -229,14 +229,14 @@
       "revelation_place": "makkah",
       "revelation_order": 70,
       "bismillah_pre": true,
-      "name_simple": "An-Nahl",
+      "name_simple": "सूरह नहल",
       "name_complex": "An-Naĥl",
       "name_arabic": "النحل",
       "verses_count": 128,
       "pages": [267, 281],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Bee"
+        "language_name": "hindi",
+        "name": "मधुमक्खी"
       }
     },
     {
@@ -244,14 +244,14 @@
       "revelation_place": "makkah",
       "revelation_order": 50,
       "bismillah_pre": true,
-      "name_simple": "Al-Isra",
+      "name_simple": "सूरह इस्राईल",
       "name_complex": "Al-'Isrā",
       "name_arabic": "الإسراء",
       "verses_count": 111,
       "pages": [282, 293],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Night Journey"
+        "language_name": "hindi",
+        "name": "रात की यात्रा"
       }
     },
     {
@@ -259,14 +259,14 @@
       "revelation_place": "makkah",
       "revelation_order": 69,
       "bismillah_pre": true,
-      "name_simple": "Al-Kahf",
+      "name_simple": "सूरह कहफ",
       "name_complex": "Al-Kahf",
       "name_arabic": "الكهف",
       "verses_count": 110,
       "pages": [293, 304],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Cave"
+        "language_name": "hindi",
+        "name": "गुफा"
       }
     },
     {
@@ -274,14 +274,14 @@
       "revelation_place": "makkah",
       "revelation_order": 44,
       "bismillah_pre": true,
-      "name_simple": "Maryam",
+      "name_simple": "सूरह मरयम",
       "name_complex": "Maryam",
       "name_arabic": "مريم",
       "verses_count": 98,
       "pages": [305, 312],
       "translated_name": {
-        "language_name": "english",
-        "name": "Mary"
+        "language_name": "hindi",
+        "name": "सूरह मरयम"
       }
     },
     {
@@ -289,14 +289,14 @@
       "revelation_place": "makkah",
       "revelation_order": 45,
       "bismillah_pre": true,
-      "name_simple": "Taha",
+      "name_simple": "सूरह ताहा",
       "name_complex": "Ţāhā",
       "name_arabic": "طه",
       "verses_count": 135,
       "pages": [312, 321],
       "translated_name": {
-        "language_name": "english",
-        "name": "Ta-Ha"
+        "language_name": "hindi",
+        "name": "सूरह ताहा"
       }
     },
     {
@@ -304,14 +304,14 @@
       "revelation_place": "makkah",
       "revelation_order": 73,
       "bismillah_pre": true,
-      "name_simple": "Al-Anbya",
+      "name_simple": "सूरह अंबिया",
       "name_complex": "Al-'Anbyā",
       "name_arabic": "الأنبياء",
       "verses_count": 112,
       "pages": [322, 331],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Prophets"
+        "language_name": "hindi",
+        "name": "अल्लाह के तमाम पैगंबर"
       }
     },
     {
@@ -319,14 +319,14 @@
       "revelation_place": "madinah",
       "revelation_order": 103,
       "bismillah_pre": true,
-      "name_simple": "Al-Hajj",
+      "name_simple": "सूरह हज",
       "name_complex": "Al-Ĥajj",
       "name_arabic": "الحج",
       "verses_count": 78,
       "pages": [332, 341],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Pilgrimage"
+        "language_name": "hindi",
+        "name": "जियारत"
       }
     },
     {
@@ -334,14 +334,14 @@
       "revelation_place": "makkah",
       "revelation_order": 74,
       "bismillah_pre": true,
-      "name_simple": "Al-Mu'minun",
+      "name_simple": "सूरह मुअमीनून",
       "name_complex": "Al-Mu'minūn",
       "name_arabic": "المؤمنون",
       "verses_count": 118,
       "pages": [342, 349],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Believers"
+        "language_name": "hindi",
+        "name": "ईमान वाले लोग"
       }
     },
     {
@@ -349,14 +349,14 @@
       "revelation_place": "madinah",
       "revelation_order": 102,
       "bismillah_pre": true,
-      "name_simple": "An-Nur",
+      "name_simple": "सूरह नूर",
       "name_complex": "An-Nūr",
       "name_arabic": "النور",
       "verses_count": 64,
       "pages": [350, 359],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Light"
+        "language_name": "hindi",
+        "name": "रौशनी"
       }
     },
     {
@@ -364,14 +364,14 @@
       "revelation_place": "makkah",
       "revelation_order": 42,
       "bismillah_pre": true,
-      "name_simple": "Al-Furqan",
+      "name_simple": "सुरह फुरकान",
       "name_complex": "Al-Furqān",
       "name_arabic": "الفرقان",
       "verses_count": 77,
       "pages": [359, 366],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Criterion"
+        "language_name": "hindi",
+        "name": "सही और गलत में फर्क करने वाली चीज"
       }
     },
     {
@@ -379,14 +379,14 @@
       "revelation_place": "makkah",
       "revelation_order": 47,
       "bismillah_pre": true,
-      "name_simple": "Ash-Shu'ara",
+      "name_simple": "सूरह शुअरा",
       "name_complex": "Ash-Shu`arā",
       "name_arabic": "الشعراء",
       "verses_count": 227,
       "pages": [367, 376],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Poets"
+        "language_name": "hindi",
+        "name": "शायर लोग"
       }
     },
     {
@@ -394,14 +394,14 @@
       "revelation_place": "makkah",
       "revelation_order": 48,
       "bismillah_pre": true,
-      "name_simple": "An-Naml",
+      "name_simple": "सूरह नम्ल",
       "name_complex": "An-Naml",
       "name_arabic": "النمل",
       "verses_count": 93,
       "pages": [377, 385],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Ant"
+        "language_name": "hindi",
+        "name": "चींटियाँ"
       }
     },
     {
@@ -409,14 +409,14 @@
       "revelation_place": "makkah",
       "revelation_order": 49,
       "bismillah_pre": true,
-      "name_simple": "Al-Qasas",
+      "name_simple": "सूरह क़सस",
       "name_complex": "Al-Qaşaş",
       "name_arabic": "القصص",
       "verses_count": 88,
       "pages": [385, 396],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Stories"
+        "language_name": "hindi",
+        "name": "किस्से"
       }
     },
     {
@@ -424,14 +424,14 @@
       "revelation_place": "makkah",
       "revelation_order": 85,
       "bismillah_pre": true,
-      "name_simple": "Al-'Ankabut",
+      "name_simple": "सूरह अन्कबूत",
       "name_complex": "Al-`Ankabūt",
       "name_arabic": "العنكبوت",
       "verses_count": 69,
       "pages": [396, 404],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Spider"
+        "language_name": "hindi",
+        "name": "मकड़ी"
       }
     },
     {
@@ -439,14 +439,14 @@
       "revelation_place": "makkah",
       "revelation_order": 84,
       "bismillah_pre": true,
-      "name_simple": "Ar-Rum",
+      "name_simple": "सूरह रोम",
       "name_complex": "Ar-Rūm",
       "name_arabic": "الروم",
       "verses_count": 60,
       "pages": [404, 410],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Romans"
+        "language_name": "hindi",
+        "name": "रोम (देश)"
       }
     },
     {
@@ -454,14 +454,14 @@
       "revelation_place": "makkah",
       "revelation_order": 57,
       "bismillah_pre": true,
-      "name_simple": "Luqman",
+      "name_simple": "सूरह लुकमान",
       "name_complex": "Luqmān",
       "name_arabic": "لقمان",
       "verses_count": 34,
       "pages": [411, 414],
       "translated_name": {
-        "language_name": "english",
-        "name": "Luqman"
+        "language_name": "hindi",
+        "name": "सूरह लुकमान"
       }
     },
     {
@@ -469,14 +469,14 @@
       "revelation_place": "makkah",
       "revelation_order": 75,
       "bismillah_pre": true,
-      "name_simple": "As-Sajdah",
+      "name_simple": "सूरह सज्दा",
       "name_complex": "As-Sajdah",
       "name_arabic": "السجدة",
       "verses_count": 30,
       "pages": [415, 417],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Prostration"
+        "language_name": "hindi",
+        "name": "सज्दा करना"
       }
     },
     {
@@ -484,14 +484,14 @@
       "revelation_place": "madinah",
       "revelation_order": 90,
       "bismillah_pre": true,
-      "name_simple": "Al-Ahzab",
+      "name_simple": "सूरह अहज़ाब",
       "name_complex": "Al-'Aĥzāb",
       "name_arabic": "الأحزاب",
       "verses_count": 73,
       "pages": [418, 427],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Combined Forces"
+        "language_name": "hindi",
+        "name": "लश्कर"
       }
     },
     {
@@ -499,14 +499,14 @@
       "revelation_place": "makkah",
       "revelation_order": 58,
       "bismillah_pre": true,
-      "name_simple": "Saba",
+      "name_simple": "सूरह सबा",
       "name_complex": "Saba",
       "name_arabic": "سبإ",
       "verses_count": 54,
       "pages": [428, 434],
       "translated_name": {
-        "language_name": "english",
-        "name": "Sheba"
+        "language_name": "hindi",
+        "name": "एक कौम"
       }
     },
     {
@@ -514,14 +514,14 @@
       "revelation_place": "makkah",
       "revelation_order": 43,
       "bismillah_pre": true,
-      "name_simple": "Fatir",
+      "name_simple": "सूरह फ़ातिर",
       "name_complex": "Fāţir",
       "name_arabic": "فاطر",
       "verses_count": 45,
       "pages": [434, 440],
       "translated_name": {
-        "language_name": "english",
-        "name": "Originator"
+        "language_name": "hindi",
+        "name": "पैदा करने वाला"
       }
     },
     {
@@ -529,14 +529,14 @@
       "revelation_place": "makkah",
       "revelation_order": 41,
       "bismillah_pre": true,
-      "name_simple": "Ya-Sin",
+      "name_simple": "सूरह या सीन",
       "name_complex": "Yā-Sīn",
       "name_arabic": "يس",
       "verses_count": 83,
       "pages": [440, 445],
       "translated_name": {
-        "language_name": "english",
-        "name": "Ya Sin"
+        "language_name": "hindi",
+        "name": "हुरूफे मुकत्तआत के दो हुरूफ"
       }
     },
     {
@@ -544,14 +544,14 @@
       "revelation_place": "makkah",
       "revelation_order": 56,
       "bismillah_pre": true,
-      "name_simple": "As-Saffat",
+      "name_simple": "सूरत साफ्फात",
       "name_complex": "Aş-Şāffāt",
       "name_arabic": "الصافات",
       "verses_count": 182,
       "pages": [446, 452],
       "translated_name": {
-        "language_name": "english",
-        "name": "Those who set the Ranks"
+        "language_name": "hindi",
+        "name": "सफ बंदी करने वाले"
       }
     },
     {
@@ -559,14 +559,14 @@
       "revelation_place": "makkah",
       "revelation_order": 38,
       "bismillah_pre": true,
-      "name_simple": "Sad",
+      "name_simple": "सूरह स्वाद",
       "name_complex": "Şād",
       "name_arabic": "ص",
       "verses_count": 88,
       "pages": [453, 458],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Letter \"Saad\""
+        "language_name": "hindi",
+        "name": "हुरूफे मुकत्तआत के एक हुरूफ"
       }
     },
     {
@@ -574,14 +574,14 @@
       "revelation_place": "makkah",
       "revelation_order": 59,
       "bismillah_pre": true,
-      "name_simple": "Az-Zumar",
+      "name_simple": "सूरह जुमर",
       "name_complex": "Az-Zumar",
       "name_arabic": "الزمر",
       "verses_count": 75,
       "pages": [458, 467],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Troops"
+        "language_name": "hindi",
+        "name": "गिरोह दर गिरोह"
       }
     },
     {
@@ -589,14 +589,14 @@
       "revelation_place": "makkah",
       "revelation_order": 60,
       "bismillah_pre": true,
-      "name_simple": "Ghafir",
+      "name_simple": "सूरह गाफिर",
       "name_complex": "Ghāfir",
       "name_arabic": "غافر",
       "verses_count": 85,
       "pages": [467, 476],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Forgiver"
+        "language_name": "hindi",
+        "name": "दयालु"
       }
     },
     {
@@ -604,14 +604,14 @@
       "revelation_place": "makkah",
       "revelation_order": 61,
       "bismillah_pre": true,
-      "name_simple": "Fussilat",
+      "name_simple": "सूरह फुसिलत",
       "name_complex": "Fuşşilat",
       "name_arabic": "فصلت",
       "verses_count": 54,
       "pages": [477, 482],
       "translated_name": {
-        "language_name": "english",
-        "name": "Explained in Detail"
+        "language_name": "hindi",
+        "name": "विस्तृत"
       }
     },
     {
@@ -619,14 +619,14 @@
       "revelation_place": "makkah",
       "revelation_order": 62,
       "bismillah_pre": true,
-      "name_simple": "Ash-Shuraa",
+      "name_simple": "सूरह शूरा",
       "name_complex": "Ash-Shūraá",
       "name_arabic": "الشورى",
       "verses_count": 53,
       "pages": [483, 489],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Consultation"
+        "language_name": "hindi",
+        "name": "सलाह मशविरा"
       }
     },
     {
@@ -634,14 +634,14 @@
       "revelation_place": "makkah",
       "revelation_order": 63,
       "bismillah_pre": true,
-      "name_simple": "Az-Zukhruf",
+      "name_simple": "सूरह जुखरूफ",
       "name_complex": "Az-Zukhruf",
       "name_arabic": "الزخرف",
       "verses_count": 89,
       "pages": [489, 495],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Ornaments of Gold"
+        "language_name": "hindi",
+        "name": "सोना"
       }
     },
     {
@@ -649,14 +649,14 @@
       "revelation_place": "makkah",
       "revelation_order": 64,
       "bismillah_pre": true,
-      "name_simple": "Ad-Dukhan",
+      "name_simple": "सूरह दुखान",
       "name_complex": "Ad-Dukhān",
       "name_arabic": "الدخان",
       "verses_count": 59,
       "pages": [496, 498],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Smoke"
+        "language_name": "hindi",
+        "name": "धुआँ"
       }
     },
     {
@@ -664,14 +664,14 @@
       "revelation_place": "makkah",
       "revelation_order": 65,
       "bismillah_pre": true,
-      "name_simple": "Al-Jathiyah",
+      "name_simple": "सूरह जासिया",
       "name_complex": "Al-Jāthiyah",
       "name_arabic": "الجاثية",
       "verses_count": 37,
       "pages": [499, 502],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Crouching"
+        "language_name": "hindi",
+        "name": "घुटनों के बल गिरे हुए"
       }
     },
     {
@@ -679,14 +679,14 @@
       "revelation_place": "makkah",
       "revelation_order": 66,
       "bismillah_pre": true,
-      "name_simple": "Al-Ahqaf",
+      "name_simple": "सूरह अहकाफ",
       "name_complex": "Al-'Aĥqāf",
       "name_arabic": "الأحقاف",
       "verses_count": 35,
       "pages": [502, 506],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Wind-Curved Sandhills"
+        "language_name": "hindi",
+        "name": "रेगिस्तान"
       }
     },
     {
@@ -694,14 +694,14 @@
       "revelation_place": "madinah",
       "revelation_order": 95,
       "bismillah_pre": true,
-      "name_simple": "Muhammad",
+      "name_simple": "सूरह मुहम्मद(ﷺ)",
       "name_complex": "Muĥammad",
       "name_arabic": "محمد",
       "verses_count": 38,
       "pages": [507, 510],
       "translated_name": {
-        "language_name": "english",
-        "name": "Muhammad"
+        "language_name": "hindi",
+        "name": "सूरह मुहम्मद(ﷺ)"
       }
     },
     {
@@ -709,14 +709,14 @@
       "revelation_place": "madinah",
       "revelation_order": 111,
       "bismillah_pre": true,
-      "name_simple": "Al-Fath",
+      "name_simple": "सूरह फतह",
       "name_complex": "Al-Fatĥ",
       "name_arabic": "الفتح",
       "verses_count": 29,
       "pages": [511, 515],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Victory"
+        "language_name": "hindi",
+        "name": "जीत"
       }
     },
     {
@@ -724,14 +724,14 @@
       "revelation_place": "madinah",
       "revelation_order": 106,
       "bismillah_pre": true,
-      "name_simple": "Al-Hujurat",
+      "name_simple": "सूरह हुजरात",
       "name_complex": "Al-Ĥujurāt",
       "name_arabic": "الحجرات",
       "verses_count": 18,
       "pages": [515, 517],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Rooms"
+        "language_name": "hindi",
+        "name": "हुजरें कमरें"
       }
     },
     {
@@ -739,14 +739,14 @@
       "revelation_place": "makkah",
       "revelation_order": 34,
       "bismillah_pre": true,
-      "name_simple": "Qaf",
+      "name_simple": "सूरह काफ़(ق)",
       "name_complex": "Qāf",
       "name_arabic": "ق",
       "verses_count": 45,
       "pages": [518, 520],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Letter \"Qaf\""
+        "language_name": "hindi",
+        "name": "काफ"
       }
     },
     {
@@ -754,14 +754,14 @@
       "revelation_place": "makkah",
       "revelation_order": 67,
       "bismillah_pre": true,
-      "name_simple": "Adh-Dhariyat",
+      "name_simple": "सूरह जारियात",
       "name_complex": "Adh-Dhāriyāt",
       "name_arabic": "الذاريات",
       "verses_count": 60,
       "pages": [520, 523],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Winnowing Winds"
+        "language_name": "hindi",
+        "name": "धूल उड़ाने वाली हवा"
       }
     },
     {
@@ -769,14 +769,14 @@
       "revelation_place": "makkah",
       "revelation_order": 76,
       "bismillah_pre": true,
-      "name_simple": "At-Tur",
+      "name_simple": "सूरह तूर",
       "name_complex": "Aţ-Ţūr",
       "name_arabic": "الطور",
       "verses_count": 49,
       "pages": [523, 525],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Mount"
+        "language_name": "hindi",
+        "name": "तूर पहाड़"
       }
     },
     {
@@ -784,14 +784,14 @@
       "revelation_place": "makkah",
       "revelation_order": 23,
       "bismillah_pre": true,
-      "name_simple": "An-Najm",
+      "name_simple": "सूरह नज्म",
       "name_complex": "An-Najm",
       "name_arabic": "النجم",
       "verses_count": 62,
       "pages": [526, 528],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Star"
+        "language_name": "hindi",
+        "name": "सितारे"
       }
     },
     {
@@ -799,14 +799,14 @@
       "revelation_place": "makkah",
       "revelation_order": 37,
       "bismillah_pre": true,
-      "name_simple": "Al-Qamar",
+      "name_simple": "सूरह क़मर",
       "name_complex": "Al-Qamar",
       "name_arabic": "القمر",
       "verses_count": 55,
       "pages": [528, 531],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Moon"
+        "language_name": "hindi",
+        "name": "चाँद"
       }
     },
     {
@@ -814,14 +814,14 @@
       "revelation_place": "madinah",
       "revelation_order": 97,
       "bismillah_pre": true,
-      "name_simple": "Ar-Rahman",
+      "name_simple": "सूरह रहमान",
       "name_complex": "Ar-Raĥmān",
       "name_arabic": "الرحمن",
       "verses_count": 78,
       "pages": [531, 534],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Beneficent"
+        "language_name": "hindi",
+        "name": "मेहरबान"
       }
     },
     {
@@ -829,14 +829,14 @@
       "revelation_place": "makkah",
       "revelation_order": 46,
       "bismillah_pre": true,
-      "name_simple": "Al-Waqi'ah",
+      "name_simple": "सूरह वाकिया",
       "name_complex": "Al-Wāqi`ah",
       "name_arabic": "الواقعة",
       "verses_count": 96,
       "pages": [534, 537],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Inevitable"
+        "language_name": "hindi",
+        "name": "कयामत का दिन"
       }
     },
     {
@@ -844,14 +844,14 @@
       "revelation_place": "madinah",
       "revelation_order": 94,
       "bismillah_pre": true,
-      "name_simple": "Al-Hadid",
+      "name_simple": "सूरह हदीद",
       "name_complex": "Al-Ĥadīd",
       "name_arabic": "الحديد",
       "verses_count": 29,
       "pages": [537, 541],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Iron"
+        "language_name": "hindi",
+        "name": "लोहा"
       }
     },
     {
@@ -859,14 +859,14 @@
       "revelation_place": "madinah",
       "revelation_order": 105,
       "bismillah_pre": true,
-      "name_simple": "Al-Mujadila",
+      "name_simple": "सूरह मुजादला",
       "name_complex": "Al-Mujādila",
       "name_arabic": "المجادلة",
       "verses_count": 22,
       "pages": [542, 545],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Pleading Woman"
+        "language_name": "hindi",
+        "name": "झगड़ालू"
       }
     },
     {
@@ -874,14 +874,14 @@
       "revelation_place": "madinah",
       "revelation_order": 101,
       "bismillah_pre": true,
-      "name_simple": "Al-Hashr",
+      "name_simple": "सूरह हश्र",
       "name_complex": "Al-Ĥashr",
       "name_arabic": "الحشر",
       "verses_count": 24,
       "pages": [545, 548],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Exile"
+        "language_name": "hindi",
+        "name": "हश्र"
       }
     },
     {
@@ -889,14 +889,14 @@
       "revelation_place": "madinah",
       "revelation_order": 91,
       "bismillah_pre": true,
-      "name_simple": "Al-Mumtahanah",
+      "name_simple": "सूरह मुमताहिना",
       "name_complex": "Al-Mumtaĥanah",
       "name_arabic": "الممتحنة",
       "verses_count": 13,
       "pages": [549, 551],
       "translated_name": {
-        "language_name": "english",
-        "name": "She that is to be examined"
+        "language_name": "hindi",
+        "name": "इम्तेहान ली जाने वाली"
       }
     },
     {
@@ -904,14 +904,14 @@
       "revelation_place": "madinah",
       "revelation_order": 109,
       "bismillah_pre": true,
-      "name_simple": "As-Saf",
+      "name_simple": "सूरह सफ",
       "name_complex": "Aş-Şaf",
       "name_arabic": "الصف",
       "verses_count": 14,
       "pages": [551, 552],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Ranks"
+        "language_name": "hindi",
+        "name": "लाइन से खड़े होना"
       }
     },
     {
@@ -919,14 +919,14 @@
       "revelation_place": "madinah",
       "revelation_order": 110,
       "bismillah_pre": true,
-      "name_simple": "Al-Jumu'ah",
+      "name_simple": "सूरह जुम्आ",
       "name_complex": "Al-Jumu`ah",
       "name_arabic": "الجمعة",
       "verses_count": 11,
       "pages": [553, 554],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Congregation, Friday"
+        "language_name": "hindi",
+        "name": "जुम्आ का मुबारक दिन"
       }
     },
     {
@@ -934,14 +934,14 @@
       "revelation_place": "madinah",
       "revelation_order": 104,
       "bismillah_pre": true,
-      "name_simple": "Al-Munafiqun",
+      "name_simple": "सूरह मुनाफिकून",
       "name_complex": "Al-Munāfiqūn",
       "name_arabic": "المنافقون",
       "verses_count": 11,
       "pages": [554, 555],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Hypocrites"
+        "language_name": "hindi",
+        "name": "मुनाफिक लोग"
       }
     },
     {
@@ -949,14 +949,14 @@
       "revelation_place": "madinah",
       "revelation_order": 108,
       "bismillah_pre": true,
-      "name_simple": "At-Taghabun",
+      "name_simple": "सूरह तगाबून",
       "name_complex": "At-Taghābun",
       "name_arabic": "التغابن",
       "verses_count": 18,
       "pages": [556, 557],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Mutual Disillusion"
+        "language_name": "hindi",
+        "name": "नुकसान से गुजरना"
       }
     },
     {
@@ -964,14 +964,14 @@
       "revelation_place": "madinah",
       "revelation_order": 99,
       "bismillah_pre": true,
-      "name_simple": "At-Talaq",
+      "name_simple": "सूरह तलाक",
       "name_complex": "Aţ-Ţalāq",
       "name_arabic": "الطلاق",
       "verses_count": 12,
       "pages": [558, 559],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Divorce"
+        "language_name": "hindi",
+        "name": "तलाक"
       }
     },
     {
@@ -979,14 +979,14 @@
       "revelation_place": "madinah",
       "revelation_order": 107,
       "bismillah_pre": true,
-      "name_simple": "At-Tahrim",
+      "name_simple": "सूरह तहरीम",
       "name_complex": "At-Taĥrīm",
       "name_arabic": "التحريم",
       "verses_count": 12,
       "pages": [560, 561],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Prohibition"
+        "language_name": "hindi",
+        "name": "हराम कर देना"
       }
     },
     {
@@ -994,14 +994,14 @@
       "revelation_place": "makkah",
       "revelation_order": 77,
       "bismillah_pre": true,
-      "name_simple": "Al-Mulk",
+      "name_simple": "सूरह मुल्क",
       "name_complex": "Al-Mulk",
       "name_arabic": "الملك",
       "verses_count": 30,
       "pages": [562, 564],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Sovereignty"
+        "language_name": "hindi",
+        "name": "बादशाही"
       }
     },
     {
@@ -1009,14 +1009,14 @@
       "revelation_place": "makkah",
       "revelation_order": 2,
       "bismillah_pre": true,
-      "name_simple": "Al-Qalam",
+      "name_simple": "सूरह कलम",
       "name_complex": "Al-Qalam",
       "name_arabic": "القلم",
       "verses_count": 52,
       "pages": [564, 566],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Pen"
+        "language_name": "hindi",
+        "name": "कलम"
       }
     },
     {
@@ -1024,14 +1024,14 @@
       "revelation_place": "makkah",
       "revelation_order": 78,
       "bismillah_pre": true,
-      "name_simple": "Al-Haqqah",
+      "name_simple": "सूरह हाक्का",
       "name_complex": "Al-Ĥāqqah",
       "name_arabic": "الحاقة",
       "verses_count": 52,
       "pages": [566, 568],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Reality"
+        "language_name": "hindi",
+        "name": "हकीकत"
       }
     },
     {
@@ -1039,14 +1039,14 @@
       "revelation_place": "makkah",
       "revelation_order": 79,
       "bismillah_pre": true,
-      "name_simple": "Al-Ma'arij",
+      "name_simple": "सूरह मआरिज",
       "name_complex": "Al-Ma`ārij",
       "name_arabic": "المعارج",
       "verses_count": 44,
       "pages": [568, 570],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Ascending Stairways"
+        "language_name": "hindi",
+        "name": "बुलंदिया"
       }
     },
     {
@@ -1054,14 +1054,14 @@
       "revelation_place": "makkah",
       "revelation_order": 71,
       "bismillah_pre": true,
-      "name_simple": "Nuh",
+      "name_simple": "सूरह नुह",
       "name_complex": "Nūĥ",
       "name_arabic": "نوح",
       "verses_count": 28,
       "pages": [570, 571],
       "translated_name": {
-        "language_name": "english",
-        "name": "Noah"
+        "language_name": "hindi",
+        "name": "नुह"
       }
     },
     {
@@ -1069,14 +1069,14 @@
       "revelation_place": "makkah",
       "revelation_order": 40,
       "bismillah_pre": true,
-      "name_simple": "Al-Jinn",
+      "name_simple": "सूरह जिन्न",
       "name_complex": "Al-Jinn",
       "name_arabic": "الجن",
       "verses_count": 28,
       "pages": [572, 573],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Jinn"
+        "language_name": "hindi",
+        "name": "जिन्नात"
       }
     },
     {
@@ -1084,14 +1084,14 @@
       "revelation_place": "makkah",
       "revelation_order": 3,
       "bismillah_pre": true,
-      "name_simple": "Al-Muzzammil",
+      "name_simple": "सूरह मुजम्मिल",
       "name_complex": "Al-Muzzammil",
       "name_arabic": "المزمل",
       "verses_count": 20,
       "pages": [574, 575],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Enshrouded One"
+        "language_name": "hindi",
+        "name": "चादर लपेटने वाला"
       }
     },
     {
@@ -1099,14 +1099,14 @@
       "revelation_place": "makkah",
       "revelation_order": 4,
       "bismillah_pre": true,
-      "name_simple": "Al-Muddaththir",
+      "name_simple": "सूरह मुदस्सिर",
       "name_complex": "Al-Muddaththir",
       "name_arabic": "المدثر",
       "verses_count": 56,
       "pages": [575, 577],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Cloaked One"
+        "language_name": "hindi",
+        "name": "चादर ओढने वाला"
       }
     },
     {
@@ -1114,14 +1114,14 @@
       "revelation_place": "makkah",
       "revelation_order": 31,
       "bismillah_pre": true,
-      "name_simple": "Al-Qiyamah",
+      "name_simple": "सूरह कियामाह",
       "name_complex": "Al-Qiyāmah",
       "name_arabic": "القيامة",
       "verses_count": 40,
       "pages": [577, 578],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Resurrection"
+        "language_name": "hindi",
+        "name": "यकीनन कायम होने वाली"
       }
     },
     {
@@ -1129,14 +1129,14 @@
       "revelation_place": "madinah",
       "revelation_order": 98,
       "bismillah_pre": true,
-      "name_simple": "Al-Insan",
+      "name_simple": "सूरह इन्सान",
       "name_complex": "Al-'Insān",
       "name_arabic": "الانسان",
       "verses_count": 31,
       "pages": [578, 580],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Man"
+        "language_name": "hindi",
+        "name": "इन्सान"
       }
     },
     {
@@ -1144,14 +1144,14 @@
       "revelation_place": "makkah",
       "revelation_order": 33,
       "bismillah_pre": true,
-      "name_simple": "Al-Mursalat",
+      "name_simple": "सूरह मुरसलात",
       "name_complex": "Al-Mursalāt",
       "name_arabic": "المرسلات",
       "verses_count": 50,
       "pages": [580, 581],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Emissaries"
+        "language_name": "hindi",
+        "name": "हवाएँ"
       }
     },
     {
@@ -1159,14 +1159,14 @@
       "revelation_place": "makkah",
       "revelation_order": 80,
       "bismillah_pre": true,
-      "name_simple": "An-Naba",
+      "name_simple": "सूरः नबा",
       "name_complex": "An-Naba",
       "name_arabic": "النبإ",
       "verses_count": 40,
       "pages": [582, 583],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Tidings"
+        "language_name": "hindi",
+        "name": "अहम खबर"
       }
     },
     {
@@ -1174,14 +1174,14 @@
       "revelation_place": "makkah",
       "revelation_order": 81,
       "bismillah_pre": true,
-      "name_simple": "An-Nazi'at",
+      "name_simple": "सूरह नाज़िआत",
       "name_complex": "An-Nāzi`āt",
       "name_arabic": "النازعات",
       "verses_count": 46,
       "pages": [583, 584],
       "translated_name": {
-        "language_name": "english",
-        "name": "Those who drag forth"
+        "language_name": "hindi",
+        "name": "सख्ती से खिंचने वाले"
       }
     },
     {
@@ -1189,14 +1189,14 @@
       "revelation_place": "makkah",
       "revelation_order": 24,
       "bismillah_pre": true,
-      "name_simple": "'Abasa",
+      "name_simple": "'सूरह अबासा",
       "name_complex": "`Abasa",
       "name_arabic": "عبس",
       "verses_count": 42,
       "pages": [585, 585],
       "translated_name": {
-        "language_name": "english",
-        "name": "He Frowned"
+        "language_name": "hindi",
+        "name": "त्यौरी चढ़ाना"
       }
     },
     {
@@ -1204,14 +1204,14 @@
       "revelation_place": "makkah",
       "revelation_order": 7,
       "bismillah_pre": true,
-      "name_simple": "At-Takwir",
+      "name_simple": "सूरह तकवीर",
       "name_complex": "At-Takwīr",
       "name_arabic": "التكوير",
       "verses_count": 29,
       "pages": [586, 586],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Overthrowing"
+        "language_name": "hindi",
+        "name": "लपेटना"
       }
     },
     {
@@ -1219,14 +1219,14 @@
       "revelation_place": "makkah",
       "revelation_order": 82,
       "bismillah_pre": true,
-      "name_simple": "Al-Infitar",
+      "name_simple": "सूरह इंफितार",
       "name_complex": "Al-'Infiţār",
       "name_arabic": "الإنفطار",
       "verses_count": 19,
       "pages": [587, 587],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Cleaving"
+        "language_name": "hindi",
+        "name": "फटना"
       }
     },
     {
@@ -1234,14 +1234,14 @@
       "revelation_place": "makkah",
       "revelation_order": 86,
       "bismillah_pre": true,
-      "name_simple": "Al-Mutaffifin",
+      "name_simple": "सूरह मुतफ्फिफीन",
       "name_complex": "Al-Muţaffifīn",
       "name_arabic": "المطففين",
       "verses_count": 36,
       "pages": [587, 589],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Defrauding"
+        "language_name": "hindi",
+        "name": "नाप तौल में कमी करने वाले"
       }
     },
     {
@@ -1249,14 +1249,14 @@
       "revelation_place": "makkah",
       "revelation_order": 83,
       "bismillah_pre": true,
-      "name_simple": "Al-Inshiqaq",
+      "name_simple": "सूरह इंशिकाक",
       "name_complex": "Al-'Inshiqāq",
       "name_arabic": "الإنشقاق",
       "verses_count": 25,
       "pages": [589, 589],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Sundering"
+        "language_name": "hindi",
+        "name": "फट जाना"
       }
     },
     {
@@ -1264,14 +1264,14 @@
       "revelation_place": "makkah",
       "revelation_order": 27,
       "bismillah_pre": true,
-      "name_simple": "Al-Buruj",
+      "name_simple": "सूरह बुरूज",
       "name_complex": "Al-Burūj",
       "name_arabic": "البروج",
       "verses_count": 22,
       "pages": [590, 590],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Mansions of the Stars"
+        "language_name": "hindi",
+        "name": "सितारों वाला आसमान"
       }
     },
     {
@@ -1279,14 +1279,14 @@
       "revelation_place": "makkah",
       "revelation_order": 36,
       "bismillah_pre": true,
-      "name_simple": "At-Tariq",
+      "name_simple": "सूरह तारिक",
       "name_complex": "Aţ-Ţāriq",
       "name_arabic": "الطارق",
       "verses_count": 17,
       "pages": [591, 591],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Nightcommer"
+        "language_name": "hindi",
+        "name": "चमकता तारा"
       }
     },
     {
@@ -1294,14 +1294,14 @@
       "revelation_place": "makkah",
       "revelation_order": 8,
       "bismillah_pre": true,
-      "name_simple": "Al-A'la",
+      "name_simple": "सूरह आला",
       "name_complex": "Al-'A`lá",
       "name_arabic": "الأعلى",
       "verses_count": 19,
       "pages": [591, 592],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Most High"
+        "language_name": "hindi",
+        "name": "सबसे ऊँचा"
       }
     },
     {
@@ -1309,14 +1309,14 @@
       "revelation_place": "makkah",
       "revelation_order": 68,
       "bismillah_pre": true,
-      "name_simple": "Al-Ghashiyah",
+      "name_simple": "सूरह गाशिया",
       "name_complex": "Al-Ghāshiyah",
       "name_arabic": "الغاشية",
       "verses_count": 26,
       "pages": [592, 592],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Overwhelming"
+        "language_name": "hindi",
+        "name": "छा जाने वाली मुसिबत(कयामत)"
       }
     },
     {
@@ -1324,14 +1324,14 @@
       "revelation_place": "makkah",
       "revelation_order": 10,
       "bismillah_pre": true,
-      "name_simple": "Al-Fajr",
+      "name_simple": "सूरह फज्र",
       "name_complex": "Al-Fajr",
       "name_arabic": "الفجر",
       "verses_count": 30,
       "pages": [593, 594],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Dawn"
+        "language_name": "hindi",
+        "name": "सुबह सादिक"
       }
     },
     {
@@ -1339,14 +1339,14 @@
       "revelation_place": "makkah",
       "revelation_order": 35,
       "bismillah_pre": true,
-      "name_simple": "Al-Balad",
+      "name_simple": "सूरह बलद",
       "name_complex": "Al-Balad",
       "name_arabic": "البلد",
       "verses_count": 20,
       "pages": [594, 594],
       "translated_name": {
-        "language_name": "english",
-        "name": "The City"
+        "language_name": "hindi",
+        "name": "शहर"
       }
     },
     {
@@ -1354,14 +1354,14 @@
       "revelation_place": "makkah",
       "revelation_order": 26,
       "bismillah_pre": true,
-      "name_simple": "Ash-Shams",
+      "name_simple": "सूरह शम्स",
       "name_complex": "Ash-Shams",
       "name_arabic": "الشمس",
       "verses_count": 15,
       "pages": [595, 595],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Sun"
+        "language_name": "hindi",
+        "name": "सूरज"
       }
     },
     {
@@ -1369,14 +1369,14 @@
       "revelation_place": "makkah",
       "revelation_order": 9,
       "bismillah_pre": true,
-      "name_simple": "Al-Layl",
+      "name_simple": "सूरह लैल",
       "name_complex": "Al-Layl",
       "name_arabic": "الليل",
       "verses_count": 21,
       "pages": [595, 596],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Night"
+        "language_name": "hindi",
+        "name": "रात"
       }
     },
     {
@@ -1384,14 +1384,14 @@
       "revelation_place": "makkah",
       "revelation_order": 11,
       "bismillah_pre": true,
-      "name_simple": "Ad-Duhaa",
+      "name_simple": "सुरह धुहा",
       "name_complex": "Ađ-Đuĥaá",
       "name_arabic": "الضحى",
       "verses_count": 11,
       "pages": [596, 596],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Morning Hours"
+        "language_name": "hindi",
+        "name": "दिन की रौशनी"
       }
     },
     {
@@ -1399,14 +1399,14 @@
       "revelation_place": "makkah",
       "revelation_order": 12,
       "bismillah_pre": true,
-      "name_simple": "Ash-Sharh",
+      "name_simple": "सूरह शरह",
       "name_complex": "Ash-Sharĥ",
       "name_arabic": "الشرح",
       "verses_count": 8,
       "pages": [596, 596],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Relief"
+        "language_name": "hindi",
+        "name": "खोल देना"
       }
     },
     {
@@ -1414,14 +1414,14 @@
       "revelation_place": "makkah",
       "revelation_order": 28,
       "bismillah_pre": true,
-      "name_simple": "At-Tin",
+      "name_simple": "सूरह तीन",
       "name_complex": "At-Tīn",
       "name_arabic": "التين",
       "verses_count": 8,
       "pages": [597, 597],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Fig"
+        "language_name": "hindi",
+        "name": "अंजीर"
       }
     },
     {
@@ -1429,14 +1429,14 @@
       "revelation_place": "makkah",
       "revelation_order": 1,
       "bismillah_pre": true,
-      "name_simple": "Al-'Alaq",
+      "name_simple": "सूरह अलक",
       "name_complex": "Al-`Alaq",
       "name_arabic": "العلق",
       "verses_count": 19,
       "pages": [597, 597],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Clot"
+        "language_name": "hindi",
+        "name": "जमा हुआ खून"
       }
     },
     {
@@ -1444,14 +1444,14 @@
       "revelation_place": "makkah",
       "revelation_order": 25,
       "bismillah_pre": true,
-      "name_simple": "Al-Qadr",
+      "name_simple": "सूरह कद्र",
       "name_complex": "Al-Qadr",
       "name_arabic": "القدر",
       "verses_count": 5,
       "pages": [598, 598],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Power"
+        "language_name": "hindi",
+        "name": "कदर,इज्जत"
       }
     },
     {
@@ -1459,14 +1459,14 @@
       "revelation_place": "madinah",
       "revelation_order": 100,
       "bismillah_pre": true,
-      "name_simple": "Al-Bayyinah",
+      "name_simple": "सूरह बय्यनाह",
       "name_complex": "Al-Bayyinah",
       "name_arabic": "البينة",
       "verses_count": 8,
       "pages": [598, 599],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Clear Proof"
+        "language_name": "hindi",
+        "name": "वाजेह दलील"
       }
     },
     {
@@ -1474,14 +1474,14 @@
       "revelation_place": "madinah",
       "revelation_order": 93,
       "bismillah_pre": true,
-      "name_simple": "Az-Zalzalah",
+      "name_simple": "सूरह जिल्जाल",
       "name_complex": "Az-Zalzalah",
       "name_arabic": "الزلزلة",
       "verses_count": 8,
       "pages": [599, 599],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Earthquake"
+        "language_name": "hindi",
+        "name": "भूकंप"
       }
     },
     {
@@ -1489,14 +1489,14 @@
       "revelation_place": "makkah",
       "revelation_order": 14,
       "bismillah_pre": true,
-      "name_simple": "Al-'Adiyat",
+      "name_simple": "सूरह अदियात",
       "name_complex": "Al-`Ādiyāt",
       "name_arabic": "العاديات",
       "verses_count": 11,
       "pages": [599, 600],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Courser"
+        "language_name": "hindi",
+        "name": "घुड़दौड़ का घोड़ा"
       }
     },
     {
@@ -1504,14 +1504,14 @@
       "revelation_place": "makkah",
       "revelation_order": 30,
       "bismillah_pre": true,
-      "name_simple": "Al-Qari'ah",
+      "name_simple": "सूरह कारिया",
       "name_complex": "Al-Qāri`ah",
       "name_arabic": "القارعة",
       "verses_count": 11,
       "pages": [600, 600],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Calamity"
+        "language_name": "hindi",
+        "name": "खड़खड़ा देने वाली(कयामत)"
       }
     },
     {
@@ -1519,14 +1519,14 @@
       "revelation_place": "makkah",
       "revelation_order": 16,
       "bismillah_pre": true,
-      "name_simple": "At-Takathur",
+      "name_simple": "सूरह तकासूर",
       "name_complex": "At-Takāthur",
       "name_arabic": "التكاثر",
       "verses_count": 8,
       "pages": [600, 600],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Rivalry in world increase"
+        "language_name": "hindi",
+        "name": "ज्यादती की ख्वाहिश"
       }
     },
     {
@@ -1534,14 +1534,14 @@
       "revelation_place": "makkah",
       "revelation_order": 13,
       "bismillah_pre": true,
-      "name_simple": "Al-'Asr",
+      "name_simple": "सूरह अस्र",
       "name_complex": "Al-`Aşr",
       "name_arabic": "العصر",
       "verses_count": 3,
       "pages": [601, 601],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Declining Day"
+        "language_name": "hindi",
+        "name": "जमाना"
       }
     },
     {
@@ -1549,14 +1549,14 @@
       "revelation_place": "makkah",
       "revelation_order": 32,
       "bismillah_pre": true,
-      "name_simple": "Al-Humazah",
+      "name_simple": "सूरह हुमाजा",
       "name_complex": "Al-Humazah",
       "name_arabic": "الهمزة",
       "verses_count": 9,
       "pages": [601, 601],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Traducer"
+        "language_name": "hindi",
+        "name": "ऐब निकालना"
       }
     },
     {
@@ -1564,14 +1564,14 @@
       "revelation_place": "makkah",
       "revelation_order": 19,
       "bismillah_pre": true,
-      "name_simple": "Al-Fil",
+      "name_simple": "सूरह फील",
       "name_complex": "Al-Fīl",
       "name_arabic": "الفيل",
       "verses_count": 5,
       "pages": [601, 601],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Elephant"
+        "language_name": "hindi",
+        "name": "हाथी"
       }
     },
     {
@@ -1579,14 +1579,14 @@
       "revelation_place": "makkah",
       "revelation_order": 29,
       "bismillah_pre": true,
-      "name_simple": "Quraysh",
+      "name_simple": "सूरह कुरैश",
       "name_complex": "Quraysh",
       "name_arabic": "قريش",
       "verses_count": 4,
       "pages": [602, 602],
       "translated_name": {
-        "language_name": "english",
-        "name": "Quraysh"
+        "language_name": "hindi",
+        "name": "कुरैशी"
       }
     },
     {
@@ -1594,14 +1594,14 @@
       "revelation_place": "makkah",
       "revelation_order": 17,
       "bismillah_pre": true,
-      "name_simple": "Al-Ma'un",
+      "name_simple": "सूरह माऊन",
       "name_complex": "Al-Mā`ūn",
       "name_arabic": "الماعون",
       "verses_count": 7,
       "pages": [602, 602],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Small kindnesses"
+        "language_name": "hindi",
+        "name": "आम इस्तेमाल की चीजें"
       }
     },
     {
@@ -1609,14 +1609,14 @@
       "revelation_place": "makkah",
       "revelation_order": 15,
       "bismillah_pre": true,
-      "name_simple": "Al-Kawthar",
+      "name_simple": "सूरह कौसर",
       "name_complex": "Al-Kawthar",
       "name_arabic": "الكوثر",
       "verses_count": 3,
       "pages": [602, 602],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Abundance"
+        "language_name": "hindi",
+        "name": "होजे कौसर"
       }
     },
     {
@@ -1624,14 +1624,14 @@
       "revelation_place": "makkah",
       "revelation_order": 18,
       "bismillah_pre": true,
-      "name_simple": "Al-Kafirun",
+      "name_simple": "सूरह काफिरून",
       "name_complex": "Al-Kāfirūn",
       "name_arabic": "الكافرون",
       "verses_count": 6,
       "pages": [603, 603],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Disbelievers"
+        "language_name": "hindi",
+        "name": "काफिर लोग"
       }
     },
     {
@@ -1639,14 +1639,14 @@
       "revelation_place": "madinah",
       "revelation_order": 114,
       "bismillah_pre": true,
-      "name_simple": "An-Nasr",
+      "name_simple": "सूरह नस्र",
       "name_complex": "An-Naşr",
       "name_arabic": "النصر",
       "verses_count": 3,
       "pages": [603, 603],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Divine Support"
+        "language_name": "hindi",
+        "name": "मदद"
       }
     },
     {
@@ -1654,14 +1654,14 @@
       "revelation_place": "makkah",
       "revelation_order": 6,
       "bismillah_pre": true,
-      "name_simple": "Al-Masad",
+      "name_simple": "सूरह तब्बत",
       "name_complex": "Al-Masad",
       "name_arabic": "المسد",
       "verses_count": 5,
       "pages": [603, 603],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Palm Fiber"
+        "language_name": "hindi",
+        "name": "आग के शोले"
       }
     },
     {
@@ -1669,14 +1669,14 @@
       "revelation_place": "makkah",
       "revelation_order": 22,
       "bismillah_pre": true,
-      "name_simple": "Al-Ikhlas",
+      "name_simple": "सूरह इख्लास",
       "name_complex": "Al-'Ikhlāş",
       "name_arabic": "الإخلاص",
       "verses_count": 4,
       "pages": [604, 604],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Sincerity"
+        "language_name": "hindi",
+        "name": "खालिस"
       }
     },
     {
@@ -1684,14 +1684,14 @@
       "revelation_place": "makkah",
       "revelation_order": 20,
       "bismillah_pre": true,
-      "name_simple": "Al-Falaq",
+      "name_simple": "सूरह फलक",
       "name_complex": "Al-Falaq",
       "name_arabic": "الفلق",
       "verses_count": 5,
       "pages": [604, 604],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Daybreak"
+        "language_name": "hindi",
+        "name": "सुबह"
       }
     },
     {
@@ -1699,15 +1699,14 @@
       "revelation_place": "makkah",
       "revelation_order": 21,
       "bismillah_pre": true,
-      "name_simple": "An-Nas",
+      "name_simple": "सूरह नास ",
       "name_complex": "An-Nās",
       "name_arabic": "الناس",
       "verses_count": 6,
       "pages": [604, 604],
       "translated_name": {
-        "language_name": "english",
-        "name": "The Mankind"
+        "language_name": "hindi",
+        "name": "इंसान"
       }
     }
   ]
-  
