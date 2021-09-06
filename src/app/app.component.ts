@@ -9,6 +9,7 @@ import { LangChangeEvent, TranslateService } from '@ngx-translate/core';
 export class AppComponent {
   constructor(private translate: TranslateService) {}
   ngOnInit() {
+  let x;
     if (localStorage.getItem('current-language') !== null) {
       this.translate.setDefaultLang(localStorage.getItem('current-language'));
       this.translate.use(localStorage.getItem('current-language'));
